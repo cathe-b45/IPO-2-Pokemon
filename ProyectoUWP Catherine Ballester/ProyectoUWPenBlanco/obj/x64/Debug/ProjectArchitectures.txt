@@ -1,1 +1,1 @@
-C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco.csproj;x64
+C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\ProyectoUWPenBlanco.csproj;x64

@@ -37,15 +37,59 @@ namespace ControlDeUsuarioPokemon
             set { this.BarraEnergia.Value = value; }
         }
 
-        double iPokemon.Vida { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        double iPokemon.Energia { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        string iPokemon.Nombre { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        string iPokemon.Categoría { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        string iPokemon.Tipo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        double iPokemon.Altura { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        double iPokemon.Peso { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        string iPokemon.Evolucion { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        string iPokemon.Descripcion { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        double iPokemon.Vida
+        {
+            get { return this.Vida; }
+            set { this.Vida = value; }
+        }
+
+        double iPokemon.Energia
+        {
+            get { return this.energia; }
+            set { this.energia = value; }
+        }
+
+        string iPokemon.Nombre
+        {
+            get { return "Mimikyu"; }
+            set {  }
+        }
+
+        string iPokemon.Categoría
+        {
+            get { return "Disfraz"; }
+            set { }
+        }
+
+        string iPokemon.Tipo
+        {
+            get { return "Fantasma/Hada"; }
+            set { }
+        }
+
+        double iPokemon.Altura
+        {
+            get { return 0.2; } 
+            set { }
+        }
+
+        double iPokemon.Peso
+        {
+            get { return 0.7; } 
+            set { }
+        }
+
+        string iPokemon.Evolucion
+        {
+            get { return "No evoluciona"; }
+            set { }
+        }
+
+        string iPokemon.Descripcion
+        {
+            get { return "Mimikyu se disfraza de Pikachu para hacerse querer. Si alguien ve su verdadero cuerpo, podría sufrir una terrible maldición."; }
+            set { }
+        }
 
         public MimikyuCBM()
         {
@@ -163,10 +207,12 @@ namespace ControlDeUsuarioPokemon
             if (ver)
             {
                 BarraVida.Opacity = 100;
+                ImagenCorazon.Opacity = 100;
             }
             else
             {
                 BarraVida.Opacity = 0;
+                ImagenCorazon.Opacity = 0;
             }
         }
 
@@ -175,10 +221,12 @@ namespace ControlDeUsuarioPokemon
             if (ver)
             {
                 BarraEnergia.Opacity = 100;
+                ImagenEnergia.Opacity = 100;
             }
             else
             {
                 BarraEnergia.Opacity = 0;
+                ImagenEnergia.Opacity = 0;
             }
         }
 

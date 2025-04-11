@@ -10262,11 +10262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj",
+      "projectUniqueName": "C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj",
       "projectName": "ProyectoUWPenBlanco",
-      "projectPath": "C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj",
+      "projectPath": "C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj",
       "packagesPath": "C:\\Users\\Cathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\obj\\",
+      "outputPath": "C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\ProyectoUWPenBlanco\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "UsingMicrosoftNETSdk": false,

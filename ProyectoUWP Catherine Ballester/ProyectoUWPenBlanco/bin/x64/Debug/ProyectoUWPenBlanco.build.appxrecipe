@@ -10,22 +10,22 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>4731cfa3-0a19-428f-b1bc-842248c15d26</PackageIdentityName>
     <PackageIdentityPublisher>CN=Ramon.HLucas</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\bin\x64\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x64\Debug\ProyectoUWPenBlanco.exe">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\bin\x64\Debug\ProyectoUWPenBlanco.exe">
       <PackagePath>entrypoint\ProyectoUWPenBlanco.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
@@ -34,145 +34,145 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\Arañazo.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\Arañazo.png">
       <PackagePath>AssetsMimikyuCBM\Arañazo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\BolaEnergia.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\BolaEnergia.png">
       <PackagePath>AssetsMimikyuCBM\BolaEnergia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\Cansado.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\Cansado.png">
       <PackagePath>AssetsMimikyuCBM\Cansado.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\corazon.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\corazon.png">
       <PackagePath>AssetsMimikyuCBM\corazon.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\energia.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\energia.png">
       <PackagePath>AssetsMimikyuCBM\energia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\EstrellaOjo.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\EstrellaOjo.png">
       <PackagePath>AssetsMimikyuCBM\EstrellaOjo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\Estrellas.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\Estrellas.png">
       <PackagePath>AssetsMimikyuCBM\Estrellas.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\FantasmaDefensa.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\FantasmaDefensa.png">
       <PackagePath>AssetsMimikyuCBM\FantasmaDefensa.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\FondoPantalla.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\FondoPantalla.png">
       <PackagePath>AssetsMimikyuCBM\FondoPantalla.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\Garra.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\Garra.png">
       <PackagePath>AssetsMimikyuCBM\Garra.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\GarraBola.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\GarraBola.png">
       <PackagePath>AssetsMimikyuCBM\GarraBola.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\Herida.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\Herida.png">
       <PackagePath>AssetsMimikyuCBM\Herida.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\LLama.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\LLama.png">
       <PackagePath>AssetsMimikyuCBM\LLama.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\red-potion.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\red-potion.png">
       <PackagePath>AssetsMimikyuCBM\red-potion.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\SombraCabeza.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\SombraCabeza.png">
       <PackagePath>AssetsMimikyuCBM\SombraCabeza.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\SombraCola.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\SombraCola.png">
       <PackagePath>AssetsMimikyuCBM\SombraCola.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\SombraCuerpo.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\SombraCuerpo.png">
       <PackagePath>AssetsMimikyuCBM\SombraCuerpo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\SombraOrejaDrc.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\SombraOrejaDrc.png">
       <PackagePath>AssetsMimikyuCBM\SombraOrejaDrc.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\SombraOrejaIzq.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\SombraOrejaIzq.png">
       <PackagePath>AssetsMimikyuCBM\SombraOrejaIzq.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\SplashScreen.scale-200.png">
       <PackagePath>AssetsMimikyuCBM\SplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\Square150x150Logo.scale-200.png">
       <PackagePath>AssetsMimikyuCBM\Square150x150Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\Square44x44Logo.scale-200.png">
       <PackagePath>AssetsMimikyuCBM\Square44x44Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>AssetsMimikyuCBM\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\StoreLogo.png">
       <PackagePath>AssetsMimikyuCBM\StoreLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\Wide310x150Logo.scale-200.png">
       <PackagePath>AssetsMimikyuCBM\Wide310x150Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\yellow-potion.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\yellow-potion.png">
       <PackagePath>AssetsMimikyuCBM\yellow-potion.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\bola.mp3">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\bola.mp3">
       <PackagePath>AssetsMimikyuCBM\bola.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\escudo.mp3">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\escudo.mp3">
       <PackagePath>AssetsMimikyuCBM\escudo.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\garra.mp3">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\garra.mp3">
       <PackagePath>AssetsMimikyuCBM\garra.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\AssetsMimikyuCBM\recuperacion.mp3">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\AssetsMimikyuCBM\recuperacion.mp3">
       <PackagePath>AssetsMimikyuCBM\recuperacion.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x64\Debug\ProyectoUWPenBlanco.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\bin\x64\Debug\ProyectoUWPenBlanco.xr.xml">
       <PackagePath>ProyectoUWPenBlanco.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x64\Debug\MimikyuCBM.xbf">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\bin\x64\Debug\MimikyuCBM.xbf">
       <PackagePath>MimikyuCBM.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Cathe\Downloads\ProyectoUWPenBlanco\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x64\Debug\Core\ProyectoUWPenBlanco.exe">
+    <AppxPackagedFile Include="C:\Users\Cathe\Documents\GitHub\IPO-2-Pokemon\ProyectoUWP Catherine Ballester\ProyectoUWPenBlanco\bin\x64\Debug\Core\ProyectoUWPenBlanco.exe">
       <PackagePath>ProyectoUWPenBlanco.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\",
+  "WorkspaceRootPath": "C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|c:\\users\\cathe\\downloads\\proyectouwpenblanco\\proyectouwpenblanco\\proyectouwpenblanco\\mimikyucbm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|solutionrelative:proyectouwpenblanco\\mimikyucbm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\proyectouwpenblanco\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|solutionrelative:proyectouwpenblanco\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\proyectouwpenblanco\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|solutionrelative:proyectouwpenblanco\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\proyectouwpenblanco\\mimikyucbm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\proyectouwpenblanco\\mimikyucbm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|solutionrelative:proyectouwpenblanco\\mimikyucbm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\proyectouwpenblanco\\ipokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\proyectouwpenblanco\\ipokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|solutionrelative:proyectouwpenblanco\\ipokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\proyectouwpenblanco\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|solutionrelative:proyectouwpenblanco\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|c:\\users\\cathe\\documents\\github\\ipo-2-pokemon\\proyectouwp catherine ballester\\proyectouwpenblanco\\mimikyucbm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|solutionrelative:proyectouwpenblanco\\mimikyucbm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\proyectouwpenblanco\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD504E03-C2D1-43B7-AFE5-88AD7599DFC9}|ProyectoUWPenBlanco\\ProyectoUWPenBlanco.csproj|solutionrelative:proyectouwpenblanco\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ramon.HLucas\\Downloads\\iPokemonCS (1)\\iPokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -33,27 +33,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "iPokemon.cs",
-              "DocumentMoniker": "C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\iPokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\ProyectoUWPenBlanco\\iPokemon.cs",
               "RelativeDocumentMoniker": "ProyectoUWPenBlanco\\iPokemon.cs",
-              "ToolTip": "C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\iPokemon.cs",
+              "ToolTip": "C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\ProyectoUWPenBlanco\\iPokemon.cs",
               "RelativeToolTip": "ProyectoUWPenBlanco\\iPokemon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T18:03:00.526Z"
+              "WhenOpened": "2025-04-02T18:03:00.526Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MimikyuCBM.xaml",
-              "DocumentMoniker": "C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\MimikyuCBM.xaml",
+              "DocumentMoniker": "C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\ProyectoUWPenBlanco\\MimikyuCBM.xaml",
               "RelativeDocumentMoniker": "ProyectoUWPenBlanco\\MimikyuCBM.xaml",
-              "ToolTip": "C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\MimikyuCBM.xaml",
+              "ToolTip": "C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\ProyectoUWPenBlanco\\MimikyuCBM.xaml",
               "RelativeToolTip": "ProyectoUWPenBlanco\\MimikyuCBM.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-02T17:34:39.351Z",
@@ -61,23 +62,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MimikyuCBM.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\MimikyuCBM.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\ProyectoUWPenBlanco\\MimikyuCBM.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoUWPenBlanco\\MimikyuCBM.xaml.cs",
-              "ToolTip": "C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\MimikyuCBM.xaml.cs",
+              "ToolTip": "C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\ProyectoUWPenBlanco\\MimikyuCBM.xaml.cs",
               "RelativeToolTip": "ProyectoUWPenBlanco\\MimikyuCBM.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T17:13:20.771Z"
+              "WhenOpened": "2025-04-02T17:13:20.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\ProyectoUWPenBlanco\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoUWPenBlanco\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\ProyectoUWPenBlanco\\MainPage.xaml.cs",
               "RelativeToolTip": "ProyectoUWPenBlanco\\MainPage.xaml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,21 +89,22 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\ProyectoUWPenBlanco\\MainPage.xaml",
               "RelativeDocumentMoniker": "ProyectoUWPenBlanco\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Cathe\\Downloads\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\ProyectoUWPenBlanco\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Cathe\\Documents\\GitHub\\IPO-2-Pokemon\\ProyectoUWP Catherine Ballester\\ProyectoUWPenBlanco\\MainPage.xaml",
               "RelativeToolTip": "ProyectoUWPenBlanco\\MainPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-19T15:03:49.223Z"
+              "WhenOpened": "2025-03-19T15:03:49.223Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "iPokemon.cs",
               "DocumentMoniker": "C:\\Users\\Ramon.HLucas\\Downloads\\iPokemonCS (1)\\iPokemon.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Ramon.HLucas\\Downloads\\iPokemonCS (1)\\iPokemon.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Ramon.HLucas\\Downloads\\iPokemonCS (1)\\iPokemon.cs",
               "ToolTip": "C:\\Users\\Ramon.HLucas\\Downloads\\iPokemonCS (1)\\iPokemon.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Ramon.HLucas\\Downloads\\iPokemonCS (1)\\iPokemon.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Ramon.HLucas\\Downloads\\iPokemonCS (1)\\iPokemon.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T09:50:23.076Z"
